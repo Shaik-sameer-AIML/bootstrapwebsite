@@ -581,7 +581,13 @@ CONTACT US PAGE
 ## OUTPUT:
 
 ### Home Page:
-
-
+![output](https://github.com/Shaik-sameer-AIML/bootstrapwebsite/blob/main/H1.JPG?raw=true)
+![output](https://github.com/Shaik-sameer-AIML/bootstrapwebsite/blob/main/H2.JPG?raw=true)
+### About us:
+![output](https://github.com/Shaik-sameer-AIML/bootstrapwebsite/blob/main/A1.JPG?raw=true)
+![output](https://github.com/Shaik-sameer-AIML/bootstrapwebsite/blob/main/A2.JPG?raw=true)
+### Contact us:
+![output](https://github.com/Shaik-sameer-AIML/bootstrapwebsite/blob/main/C1.JPG?raw=true)
+![output](https://github.com/Shaik-sameer-AIML/bootstrapwebsite/blob/main/C2.JPG?raw=true)
 ## Result:
 
