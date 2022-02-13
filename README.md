@@ -590,4 +590,4 @@ CONTACT US PAGE
 ![output](https://github.com/Shaik-sameer-AIML/bootstrapwebsite/blob/main/C1.JPG?raw=true)
 ![output](https://github.com/Shaik-sameer-AIML/bootstrapwebsite/blob/main/C2.JPG?raw=true)
 ## Result:
-
+Thus the website is created using bootstrap
